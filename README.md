@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
 
@@ -130,6 +130,6 @@ Tilka Manjhi Bhagalpur University, Bhagalpur, India (2022 – 2025)
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </a>
 </p>
