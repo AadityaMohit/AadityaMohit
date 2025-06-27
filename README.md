@@ -75,26 +75,26 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 ## 💼 Experience
 
 **Full Stack Developer**  
-*FullLaita Automation Pvt Ltd, Bengaluru, Karnataka*    
+*FullLaita Automation Pvt Ltd, Bengaluru, Karnataka* (2024 – Present)  
 - Developed real-time sensor data monitoring apps (Next.js, Node.js).
 - Managed PM2 process management, ensured high availability.
 - Configured Jenkins for CI/CD automation.
 - Integrated IoT sensors (Solenoid, EMQX) for analytics.
 
 **Software Engineering Intern**  
-*Rivolta Solusi Teknologi, Indonesia*  
+*Rivolta Solusi Teknologi, Indonesia* (2023)  
 - Built cross-platform mobile apps (React Native).
 - Developed RESTful APIs (Node.js/Express.js), MongoDB.
 - Enhanced responsiveness, collaborated in agile sprints.
 
 **Full Stack Web Developer Intern**  
-*Phurti Logistics Pvt Ltd*  
+*Phurti Logistics Pvt Ltd* (2023)  
 - Designed logistics apps (MERN, Django).
 - Integrated React.js with Node.js/Django backends.
 - Created D3.js data visualizations.
 
 **Frontend Developer Intern**  
-*Fourtrax Lifestyles Pvt Ltd*    
+*Fourtrax Lifestyles Pvt Ltd* (2022)  
 - Developed Chrome extensions (React, Firebase, PouchDB, Yjs).
 - Implemented real-time collaboration, dynamic data extraction.
 
@@ -123,7 +123,7 @@ Tilka Manjhi Bhagalpur University, Bhagalpur, India (2022 – 2025)
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+  <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=githubpages&logoColor=white"/>
   </a>
 </p>
