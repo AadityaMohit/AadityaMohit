@@ -12,7 +12,7 @@
 
 Full-stack web developer specializing in the MERN stack and Django (Python). Experienced in building dynamic, responsive web applications with a strong focus on user experience, modern development best practices, and high-quality solutions. Adept at problem-solving and delivering client-focused results.<p align="center">
   <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
