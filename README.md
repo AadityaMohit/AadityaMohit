@@ -56,22 +56,11 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 - Designed and optimized UI/UX for seamless, interactive user experience.
 - Continuously expanding with new features and applications.
 
-### ☁️ Weather & News App [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
-- High-performance React app leveraging APIs for real-time weather and news.
-- Intuitive UI with dynamic data visualization.
-
 ### 🛒 E-commerce Platform (MERN) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
 - Full-stack e-commerce platform with secure JWT authentication and role-based access.
 - Dynamic admin dashboard with D3.js analytics and optimized backend.
 
-### 🧩 Chrome Extension: Side Panel [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#)
-- Chrome extension using React and Firebase for real-time note-saving.
-- Intelligent text selection storage, auto-sync, and live tab info tracking.
-
-### 🥦 E-commerce Grocery Shop (Django) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#)
-- Django-powered grocery platform with optimized checkout and security.
-- Secure authentication and efficient order management.
-
+ 
 ### 📝 Portfolio Builder (Django) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
 - Dynamic portfolio builder for creating, managing, and exporting professional PDF portfolios.
 - Customizable templates and interactive UI.
