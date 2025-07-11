@@ -70,36 +70,23 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 ## 💼 Experience
 
 **Full Stack Developer**  
-*FullLaita Automation Pvt Ltd, Bengaluru, Karnataka* (2024 – Present)  
+*FullLaita Automation Pvt Ltd, Bengaluru, Karnataka*  
 - Developed real-time sensor data monitoring apps (Next.js, Node.js).
 - Managed PM2 process management, ensured high availability.
 - Configured Jenkins for CI/CD automation.
 - Integrated IoT sensors (Solenoid, EMQX) for analytics.
 
 **Software Engineering Intern**  
-*Rivolta Solusi Teknologi, Indonesia* (2023)  
+*Rivolta Solusi Teknologi, Indonesia*    
 - Built cross-platform mobile apps (React Native).
 - Developed RESTful APIs (Node.js/Express.js), MongoDB.
 - Enhanced responsiveness, collaborated in agile sprints.
 
-**Full Stack Web Developer Intern**  
-*Phurti Logistics Pvt Ltd* (2023)  
-- Designed logistics apps (MERN, Django).
-- Integrated React.js with Node.js/Django backends.
-- Created D3.js data visualizations.
-
 **Frontend Developer Intern**  
-*Fourtrax Lifestyles Pvt Ltd* (2022)  
+*Fourtrax Lifestyles Pvt Ltd* 
 - Developed Chrome extensions (React, Firebase, PouchDB, Yjs).
 - Implemented real-time collaboration, dynamic data extraction.
-
-**HR Intern**  
-*DevTown* (2022)  
-- Managed Python & AI student projects.
-- Assisted in recruitment, organized technical workshops.
-
----
-
+ 
 ## 🎓 Education
 
 **Bachelor of Computer Application**  
