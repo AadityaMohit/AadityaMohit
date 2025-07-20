@@ -55,9 +55,6 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 *Duonomic*  
 - Led planning and development of scalable web products.
 - Collaborated on product strategy, feature design, and implementation.
-- 
-**Full Stack Developer**  
-*FullLaita Automation Pvt Ltd, Bengaluru, Karnataka*  
 - Developed real-time sensor data monitoring apps (Next.js, Node.js).
 - Managed PM2 process management, ensured high availability.
 - Configured Jenkins for CI/CD automation.
