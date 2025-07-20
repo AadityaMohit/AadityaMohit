@@ -48,24 +48,6 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 
 ---
 
-## 🏆 Projects
-
-### 🚀 Nexora Startup [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
-- Founded Nexora, focused on innovative web and Android applications.
-- Developed and launched AI-powered Chatbot, Weather & E-commerce, and News App.
-- Designed and optimized UI/UX for seamless, interactive user experience.
-- Continuously expanding with new features and applications.
-
-### 🛒 E-commerce Platform (MERN) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
-- Full-stack e-commerce platform with secure JWT authentication and role-based access.
-- Dynamic admin dashboard with D3.js analytics and optimized backend.
-
- 
-### 📝 Portfolio Builder (Django) [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="18"/>](#) [<img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="18"/>](#)
-- Dynamic portfolio builder for creating, managing, and exporting professional PDF portfolios.
-- Customizable templates and interactive UI.
-
----
 
 ## 💼 Experience
 
