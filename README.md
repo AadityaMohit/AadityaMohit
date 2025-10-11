@@ -49,28 +49,7 @@ Full-stack web developer specializing in the MERN stack and Django (Python). Exp
 ---
 
 
-## 💼 Experience
 
-**Product Developer Full-Time**  
-*Duonomic*  
-- Led planning and development of scalable web products.
-- Collaborated on product strategy, feature design, and implementation.
-- Developed real-time sensor data monitoring apps (Next.js, Node.js).
-- Managed PM2 process management, ensured high availability.
-- Configured Jenkins for CI/CD automation.
-- Integrated IoT sensors (Solenoid, EMQX) for analytics.
-
-**Software Engineering Intern**  
-*Rivolta Solusi Teknologi, Indonesia*    
-- Built cross-platform mobile apps (React Native).
-- Developed RESTful APIs (Node.js/Express.js), MongoDB.
-- Enhanced responsiveness, collaborated in agile sprints.
-
-**Frontend Developer Intern**  
-*Fourtrax Lifestyles Pvt Ltd* 
-- Developed Chrome extensions (React, Firebase, PouchDB, Yjs).
-- Implemented real-time collaboration, dynamic data extraction.
- 
 ## 🎓 Education
 
 **Bachelor of Computer Application**  
