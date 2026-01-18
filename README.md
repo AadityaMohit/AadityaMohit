@@ -11,7 +11,7 @@
 ## 🧑‍💻 Summary
 
 Full-stack web developer specializing in the MERN stack and Django (Python). Experienced in building dynamic, responsive web applications with a strong focus on user experience, modern development best practices, and high-quality solutions. Adept at problem-solving and delivering client-focused results.<p align="center">
-  <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
+  <a href="https://symphonious-sfogliatella-3c217d.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -68,7 +68,7 @@ Tilka Manjhi Bhagalpur University, Bhagalpur, India (2022 – 2025)
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://port-folio-eight-lake.vercel.app/" target="_blank">
+  <a href="https://symphonious-sfogliatella-3c217d.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3776AB?style=flat-square&logo=python&logoColor=white"/>
   </a>
 </p>
